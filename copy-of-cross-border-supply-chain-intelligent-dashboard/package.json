@@ -1,0 +1,10 @@
+
+{
+  "name": "cross-border-supply-chain-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static ESM project: No build step required.'"
+  }
+}
